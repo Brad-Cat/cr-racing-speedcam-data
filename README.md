@@ -13,5 +13,5 @@ build pipeline from **[data.gov.tw dataset 7320](https://data.gov.tw/dataset/732
 Raw URL the app fetches:
 
 ```
-https://raw.githubusercontent.com/Crestdiving/cr-racing-speedcam-data/main/cameras.bin
+https://raw.githubusercontent.com/Brad-Cat/cr-racing-speedcam-data/main/cameras.bin
 ```
